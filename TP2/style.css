@@ -1,0 +1,30 @@
+html{
+	font-size:100%;
+}
+
+body{
+	background-image:url('images/bg.jpg');
+	background-size:contain;
+	color:white;
+}
+
+header{
+	background-image:url('images/logo-iut.jpg');
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 300px 130px;
+	height:100px;
+}
+
+h1{
+	font-size:1.5625rem;
+	font-size:8vw;
+}
+
+table,td, th{
+	border:solid 1px black;
+}
+
+th{
+	background-color:grey;
+}

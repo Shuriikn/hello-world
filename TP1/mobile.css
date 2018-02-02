@@ -2,12 +2,18 @@
 	img{
 		max-width:100%;
 	}
+	td,th{
+	display:block;
+}
 }
 
 @media (min-width:768px) and (max-width:979px){
 	img{
 		max-width:100%;
 	}
+	td,th{
+	display:block;
+}
 }
 
 @media (orientation:landscape){
