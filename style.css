@@ -30,3 +30,7 @@ h1{
 .rouge{
 	background-color:red;
 }
+
+table,td, th{
+	border:solid 1px black;
+}
