@@ -1,0 +1,20 @@
+#menu{
+	background-color:black;
+	width:100%;
+}
+
+#menu a{
+	display:inline-block;
+}
+
+#Informations div{
+	display:flex;
+}
+
+#formulaire input{
+	width:90%;
+}
+
+iframe{
+	width:250px;
+}
